@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pth
+*.pt
+models/*.pth
+models/*.pt
+.env
+
+# Image datasets (too large for GitHub)
+train/
+test/

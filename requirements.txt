@@ -1,0 +1,10 @@
+streamlit==1.48.0
+torch
+torchvision
+pillow
+opencv-python
+matplotlib
+numpy
+markdown
+openai
+pandas
